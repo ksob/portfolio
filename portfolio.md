@@ -1,12 +1,3 @@
----
-id: me
-permalink: /about
-title: About Me
-date: 2026-04-13 18:23:07
-thumbnail: example_1.jpg
-tags: []
----
-
 # 🌐 Web Development Portfolio Showcase
 
 ---
