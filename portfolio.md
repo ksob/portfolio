@@ -83,7 +83,7 @@
 
 ---
 
-*All projects represent live websites demonstrating practical expertise in web development across diverse industries including corporate, industrial safety, and education sectors. Each project showcases different aspects of modern web development.*
+*All projects represent live websites demonstrating practical expertise in web development across diverse industries. Each project showcases different aspects of modern web development.*
 
 ---
 
